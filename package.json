@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@radix-ui/react-dialog": "^1.0.4",
     "@supabase/supabase-js": "^2.26.0"
   }
 }
